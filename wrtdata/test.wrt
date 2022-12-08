@@ -1,0 +1,7 @@
+{
+    id=int,
+    test=String
+}
+
+    ('id'="1234", 'test'="hi mom"),
+

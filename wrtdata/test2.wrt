@@ -1,0 +1,6 @@
+{
+hallo:String,
+nein:boolean,
+doch:boolean,
+oh:int
+}

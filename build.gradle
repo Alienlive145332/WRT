@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'de.Alienlive.WRT'
+version 'alpha.1'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
+
+test {
+    useJUnitPlatform()
+}
